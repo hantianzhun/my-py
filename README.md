@@ -45,6 +45,6 @@ windows use powershell run:
 .\build.ps1
 ```
 
-## Stargazers over time
+## Star History
 
-[![Stargazers over time](https://starchart.cc/saxpjexck/lsix.svg?variant=adaptive)](https://starchart.cc/saxpjexck/lsix)
+[![Star History Chart](https://api.star-history.com/svg?repos=saxpjexck/lsix&type=Date)](https://www.star-history.com/#saxpjexck/lsix&Date)
