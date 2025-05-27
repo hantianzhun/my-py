@@ -47,4 +47,5 @@ windows use powershell run:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=saxpjexck/lsix&type=Date)](https://www.star-history.com/#saxpjexck/lsix&Date)
+<! -- [![Star History Chart](https://api.star-history.com/svg?repos=saxpjexck/lsix&type=Date)](https://www.star-history.com/#saxpjexck/lsix&Date) --> 
+[![Stargazers over time](https://starchart.cc/saxpjexck/lsix.svg?variant=adaptive)](https://starchart.cc/saxpjexck/lsix)
